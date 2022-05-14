@@ -1,0 +1,468 @@
+#EXTINF:-1 tvg-name="CCTV-4K(色彩准确)",CCTV-4K(色彩准确)
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV-1高清",CCTV-1高清
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-1香港版高清",CCTV-1香港版高清
+http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+#EXTINF:-1 tvg-name="CCTV-2高清",CCTV-2高清
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-3高清",CCTV-3高清
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-4高清",CCTV-4高清
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-5高清",CCTV-5高清
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+高清",CCTV-5+高清
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-name="CCTV-6高清",CCTV-6高清
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-7高清",CCTV-7高清
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8高清",CCTV-8高清
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9高清",CCTV-9高清
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-10高清",CCTV-10高清
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-11高清",CCTV-11高清
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-12高清",CCTV-12高清
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-13高清",CCTV-13高清
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-14高清",CCTV-14高清
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15高清",CCTV-15高清
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-16高清",CCTV-16高清
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-17高清",CCTV-17高清
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CGTN高清",CGTN高清
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录高清",CGTN纪录高清
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF:-1 tvg-name="CGTN法语高清",CGTN法语高清
+http://iptv.tvfix.org/hls/cgtnfhd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语高清",CGTN俄语高清
+http://iptv.tvfix.org/hls/cgtnehd.m3u8
+#EXTINF:-1 tvg-name="CGTN阿拉伯语高清",CGTN阿拉伯语高清
+http://iptv.tvfix.org/hls/cgtnahd.m3u8
+#EXTINF:-1 tvg-name="CGTN西班牙语高清",CGTN西班牙语高清
+http://iptv.tvfix.org/hls/cgtnxhd.m3u8
+#EXTINF:-1 tvg-name="北京卫视高清",北京卫视高清
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视高清",湖南卫视高清
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视高清",浙江卫视高清
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视高清",江苏卫视高清
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="东方卫视高清",东方卫视高清
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="安徽卫视高清",安徽卫视高清
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视高清",黑龙江卫视高清
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视高清",辽宁卫视高清
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="深圳卫视高清",深圳卫视高清
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="广东卫视高清",广东卫视高清
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1 tvg-name="天津卫视高清",天津卫视高清
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1 tvg-name="湖北卫视高清",湖北卫视高清
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视高清",山东卫视高清
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="重庆卫视高清",重庆卫视高清
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实高清",金鹰纪实高清
+http://iptv.tvfix.org/hls/gedocu.m3u8
+#EXTINF:-1 tvg-name="福建东南卫视高清",福建东南卫视高清
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="四川卫视高清",四川卫视高清
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1 tvg-name="河北卫视高清",河北卫视高清
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1 tvg-name="江西卫视高清",江西卫视高清
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1 tvg-name="河南卫视高清",河南卫视高清
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 tvg-name="广西卫视高清",广西卫视高清
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1 tvg-name="吉林卫视高清",吉林卫视高清
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:-1 tvg-name="中国教育电视台1高清",中国教育电视台1高清
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-name="海南卫视高清",海南卫视高清
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1 tvg-name="贵州卫视高清",贵州卫视高清
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1 tvg-name="北京文艺高清",北京文艺高清
+http://iptv.tvfix.org/hls/brtv2hd.m3u8
+#EXTINF:-1 tvg-name="北京科教高清",北京科教高清
+http://iptv.tvfix.org/hls/brtv3hd.m3u8
+#EXTINF:-1 tvg-name="北京影视高清",北京影视高清
+http://iptv.tvfix.org/hls/brtv4hd.m3u8
+#EXTINF:-1 tvg-name="北京财经高清",北京财经高清
+http://iptv.tvfix.org/hls/brtv5hd.m3u8
+#EXTINF:-1 tvg-name="北京生活高清",北京生活高清
+http://iptv.tvfix.org/hls/brtv7hd.m3u8
+#EXTINF:-1 tvg-name="北京青年高清",北京青年高清
+http://iptv.tvfix.org/hls/brtv8hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻高清",北京新闻高清
+http://iptv.tvfix.org/hls/brtv9hd.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿高清",北京卡酷少儿高清
+http://iptv.tvfix.org/hls/brtv10hd.m3u8
+#EXTINF:-1 tvg-name="北京冬奥纪实高清",北京冬奥纪实高清
+http://iptv.tvfix.org/hls/brtv11hd.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合高清",上海新闻综合高清
+http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+#EXTINF:-1 tvg-name="上海东方影视高清",上海东方影视高清
+http://iptv.tvfix.org/hls/shdfyshd.m3u8
+#EXTINF:-1 tvg-name="上海都市频道高清",上海都市频道高清
+http://iptv.tvfix.org/hls/shdspdhd.m3u8
+#EXTINF:-1 tvg-name="上海外语频道高清",上海外语频道高清
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
+#EXTINF:-1 tvg-name="清华电视台",清华电视台
+http://iptv.tvfix.org/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-name="五星体育高清",五星体育高清
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 tvg-name="极速汽车高清",极速汽车高清
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1 tvg-name="劲爆体育高清",劲爆体育高清
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 tvg-name="新视觉高清",新视觉高清
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1 tvg-name="魅力足球高清",魅力足球高清
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1 tvg-name="游戏风云高清",游戏风云高清
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1 tvg-name="全纪实高清",全纪实高清
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 tvg-name="纪实人文高清",纪实人文高清
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动高清",哈哈炫动高清
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:-1 tvg-name="优漫卡通",优漫卡通
+http://iptv.tvfix.org/hls/ymkttv.m3u8
+#EXTINF:-1 tvg-name="新动漫",新动漫
+http://iptv.tvfix.org/hls/xdmtv.m3u8
+#EXTINF:-1 tvg-name="足球频道",足球频道
+http://iptv.tvfix.org/hls/zqhd.m3u8
+#EXTINF:-1 tvg-name="翡翠台(第1声道繁体)",翡翠台(第1声道繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 tvg-name="翡翠台(第2声道简体)",翡翠台(第2声道简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 tvg-name="翡翠台海外版(粤语繁体)",翡翠台海外版(粤语繁体)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 tvg-name="翡翠台海外版(普通话简体)",翡翠台海外版(普通话简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-name="J2",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-name="J2(第2声道)",J2(第2声道)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 tvg-name="无线新闻台",无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(第2声道)",无线新闻台(第2声道)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1 tvg-name="明珠台",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 tvg-name="明珠台(第2声道)",明珠台(第2声道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 tvg-name="无线财经资讯台",无线财经资讯台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 tvg-name="无线财经资讯台(第2声道)",无线财经资讯台(第2声道)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 tvg-name="无线财经资讯台海外版",无线财经资讯台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 tvg-name="ViuTV",ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 tvg-name="ViuTV(第2声道)",ViuTV(第2声道)
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1 tvg-name="ViuTV6",ViuTV6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 tvg-name="RTHK31",RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 tvg-name="RTHK32",RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 tvg-name="香港国际财经台",香港国际财经台
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 tvg-name="香港开电视",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲台",TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻台",TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 tvg-name="中天新闻",中天新闻
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1 tvg-name="东森新闻",东森新闻
+http://iptv.tvfix.org/hls/dsxw.m3u8
+#EXTINF:-1 tvg-name="NHK综合",NHK综合
+http://iptv.tvfix.org/hls/nhkg.m3u8
+#EXTINF:-1 tvg-name="NHK综合(第2声道)",NHK综合(第2声道)
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1 tvg-name="NHK教育",NHK教育
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 tvg-name="NHK教育(第2声道)",NHK教育(第2声道)
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD Premium",NHK WORLD Premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD",NHK WORLD
+http://iptv.tvfix.org/hls/nhkworld.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD(中文字幕)",NHK WORLD(中文字幕)
+http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+#EXTINF:-1 tvg-name="tvN",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-name="瞬间看地球",瞬间看地球
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 tvg-name="美亚电影台(粤语)",美亚电影台(粤语)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 tvg-name="美亚电影台(普通话)",美亚电影台(普通话)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 tvg-name="天映经典(粤语)",天映经典(粤语)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 tvg-name="天映经典(普通话)",天映经典(普通话)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-name="Animax",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 tvg-name="Animax(第2声道)",Animax(第2声道)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 tvg-name="Hands Up Channel",Hands Up Channel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 tvg-name="Hands Up Channel(第2声道)",Hands Up Channel(第2声道)
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1 tvg-name="Thrill",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-name="Thrill(第2声道)",Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 tvg-name="TVB经典台",TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 tvg-name="TVB为食台",TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 tvg-name="TVB为食台(第2声道)",TVB为食台(第2声道)
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 tvg-name="TVB星河(粤语)",TVB星河(粤语)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-name="TVB星河(普通话)",TVB星河(普通话)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 tvg-name="TVB功夫台(粤语)",TVB功夫台(粤语)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-name="TVB功夫(普通话)",TVB功夫(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯",凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 tvg-name="凤凰中文",凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-name="凤凰电影",凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 tvg-name="Discovery",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-name="动物星球",动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-name="动物星球(第2声道)",动物星球(第2声道)
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K",Love Nature 4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K(第2声道)",Love Nature 4K(第2声道)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 tvg-name="国家地理",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-name="Channel V",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-name="星空卫视",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-name="Star Sports",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 tvg-name="CCTV-1综合",CCTV-1综合
+http://iptv.tvfix.org/hls/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2财经",CCTV-2财经
+http://iptv.tvfix.org/hls/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV-3综艺",CCTV-3综艺
+http://iptv.tvfix.org/hls/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV-4中文国际",CCTV-4中文国际
+http://iptv.tvfix.org/hls/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV-5体育",CCTV-5体育
+http://iptv.tvfix.org/hls/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV-6电影",CCTV-6电影
+http://iptv.tvfix.org/hls/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-7国防军事",CCTV-7国防军事
+http://iptv.tvfix.org/hls/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-8电视剧",CCTV-8电视剧
+http://iptv.tvfix.org/hls/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV-9纪录",CCTV-9纪录
+http://iptv.tvfix.org/hls/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-10科教",CCTV-10科教
+http://iptv.tvfix.org/hls/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV-11戏曲",CCTV-11戏曲
+http://iptv.tvfix.org/hls/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV-12社会与法",CCTV-12社会与法
+http://iptv.tvfix.org/hls/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV-13新闻",CCTV-13新闻
+http://iptv.tvfix.org/hls/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV-14少儿",CCTV-14少儿
+http://iptv.tvfix.org/hls/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV-15音乐",CCTV-15音乐
+http://iptv.tvfix.org/hls/cctv15.m3u8
+#EXTINF:-1 tvg-name="CGTN",CGTN
+http://iptv.tvfix.org/hls/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV-17农业农村",CCTV-17农业农村
+http://iptv.tvfix.org/hls/cctv17.m3u8
+#EXTINF:-1 tvg-name="文化精品",文化精品
+http://iptv.tvfix.org/hls/whjptv.m3u8
+#EXTINF:-1 tvg-name="老故事",老故事
+http://iptv.tvfix.org/hls/lgstv.m3u8
+#EXTINF:-1 tvg-name="北京卫视",北京卫视
+http://iptv.tvfix.org/hls/brtv1.m3u8
+#EXTINF:-1 tvg-name="北京文艺",北京文艺
+http://iptv.tvfix.org/hls/brtv2.m3u8
+#EXTINF:-1 tvg-name="北京科教",北京科教
+http://iptv.tvfix.org/hls/brtv3.m3u8
+#EXTINF:-1 tvg-name="北京影视",北京影视
+http://iptv.tvfix.org/hls/brtv4.m3u8
+#EXTINF:-1 tvg-name="北京财经",北京财经
+http://iptv.tvfix.org/hls/brtv5.m3u8
+#EXTINF:-1 tvg-name="北京生活",北京生活
+http://iptv.tvfix.org/hls/brtv7.m3u8
+#EXTINF:-1 tvg-name="北京青年",北京青年
+http://iptv.tvfix.org/hls/brtv8.m3u8
+#EXTINF:-1 tvg-name="北京新闻",北京新闻
+http://iptv.tvfix.org/hls/brtv9.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿",北京卡酷少儿
+http://iptv.tvfix.org/hls/brtv10.m3u8
+#EXTINF:-1 tvg-name="北京冬奥纪实",北京冬奥纪实
+http://iptv.tvfix.org/hls/brtv11.m3u8
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+http://iptv.tvfix.org/hls/zjtv.m3u8
+#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
+http://iptv.tvfix.org/hls/hunantv.m3u8
+#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
+http://iptv.tvfix.org/hls/jstv.m3u8
+#EXTINF:-1 tvg-name="东方卫视",东方卫视
+http://iptv.tvfix.org/hls/dftv.m3u8
+#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
+http://iptv.tvfix.org/hls/sztv.m3u8
+#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
+http://iptv.tvfix.org/hls/ahtv.m3u8
+#EXTINF:-1 tvg-name="河南卫视",河南卫视
+http://iptv.tvfix.org/hls/hntv.m3u8
+#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+http://iptv.tvfix.org/hls/sxtv.m3u8
+#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
+http://iptv.tvfix.org/hls/jltv.m3u8
+#EXTINF:-1 tvg-name="广东卫视",广东卫视
+http://iptv.tvfix.org/hls/gdtv.m3u8
+#EXTINF:-1 tvg-name="山东卫视",山东卫视
+http://iptv.tvfix.org/hls/sdtv.m3u8
+#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
+http://iptv.tvfix.org/hls/hbrtv.m3u8
+#EXTINF:-1 tvg-name="河北卫视",河北卫视
+http://iptv.tvfix.org/hls/hebrtv.m3u8
+#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
+http://iptv.tvfix.org/hls/xztv.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
+http://iptv.tvfix.org/hls/nmtv.m3u8
+#EXTINF:-1 tvg-name="青海卫视",青海卫视
+http://iptv.tvfix.org/hls/qhtv.m3u8
+#EXTINF:-1 tvg-name="四川卫视",四川卫视
+http://iptv.tvfix.org/hls/sctv.m3u8
+#EXTINF:-1 tvg-name="天津卫视",天津卫视
+http://iptv.tvfix.org/hls/tjtv.m3u8
+#EXTINF:-1 tvg-name="山西卫视",山西卫视
+http://iptv.tvfix.org/hls/sxrtv.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
+http://iptv.tvfix.org/hls/lntv.m3u8
+#EXTINF:-1 tvg-name="厦门卫视",厦门卫视
+http://iptv.tvfix.org/hls/xmtv.m3u8
+#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
+http://iptv.tvfix.org/hls/xjtv.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
+http://iptv.tvfix.org/hls/hljtv.m3u8
+#EXTINF:-1 tvg-name="云南卫视",云南卫视
+http://iptv.tvfix.org/hls/yntv.m3u8
+#EXTINF:-1 tvg-name="江西卫视",江西卫视
+http://iptv.tvfix.org/hls/jxtv.m3u8
+#EXTINF:-1 tvg-name="福建东南卫视",福建东南卫视
+http://iptv.tvfix.org/hls/dntv.m3u8
+#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
+http://iptv.tvfix.org/hls/gztv.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
+http://iptv.tvfix.org/hls/nxtv.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
+http://iptv.tvfix.org/hls/gstv.m3u8
+#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
+http://iptv.tvfix.org/hls/cqtv.m3u8
+#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
+http://iptv.tvfix.org/hls/bttv.m3u8
+#EXTINF:-1 tvg-name="延边卫视",延边卫视
+http://iptv.tvfix.org/hls/ybrtv.m3u8
+#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
+http://iptv.tvfix.org/hls/sstv.m3u8
+#EXTINF:-1 tvg-name="海南卫视",海南卫视
+http://iptv.tvfix.org/hls/lytv.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧",辽宁影视剧
+http://iptv.tvfix.org/hls/lnysjtv.m3u8
+#EXTINF:-1 tvg-name="辽宁体育",辽宁体育
+http://iptv.tvfix.org/hls/lntytv.m3u8
+#EXTINF:-1 tvg-name="中国教育电视台1",中国教育电视台1
+http://iptv.tvfix.org/hls/cetv1.m3u8
+#EXTINF:-1 tvg-name="中国教育电视台3",中国教育电视台3
+http://iptv.tvfix.org/hls/cetv3.m3u8
+#EXTINF:-1 tvg-name="中国教育电视台4",中国教育电视台4
+http://iptv.tvfix.org/hls/cetv4.m3u8
+#EXTINF:-1 tvg-name="山东教育电视台",山东教育电视台
+http://iptv.tvfix.org/hls/sdetv.m3u8
+#EXTINF:-1 tvg-name="央广中国之声",央广中国之声
+http://iptv.tvfix.org/hls/cnrzgzsgb.m3u8
+#EXTINF:-1 tvg-name="央广经济之声",央广经济之声
+http://hk.tvfix.xyz/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="央广音乐之声",央广音乐之声
+http://iptv.tvfix.org/hls/cnryyzsgb.m3u8
+#EXTINF:-1 tvg-name="央广都市之声",央广都市之声
+http://iptv.tvfix.org/hls/cnrdszsgb.m3u8
+#EXTINF:-1 tvg-name="央广文艺之声",央广文艺之声
+http://iptv.tvfix.org/hls/cnrwyzsgb.m3u8
+#EXTINF:-1 tvg-name="央广娱乐广播",央广娱乐广播
+http://iptv.tvfix.org/hls/cnrylgb.m3u8
+#EXTINF:-1 tvg-name="央广交通广播",央广交通广播
+http://iptv.tvfix.org/hls/cnrjtgb.m3u8
+#EXTINF:-1 tvg-name="央广香港广播",央广香港广播
+http://iptv.tvfix.org/hls/cnrxgzsgb.m3u8
+#EXTINF:-1 tvg-name="北京新闻",北京新闻
+http://iptv.tvfix.org/hls/bjxwgb.m3u8
+#EXTINF:-1 tvg-name="北京故事广播",北京故事广播
+http://iptv.tvfix.org/hls/bjgsgb.m3u8
+#EXTINF:-1 tvg-name="北京文艺广播",北京文艺广播
+http://iptv.tvfix.org/hls/bjwygb.m3u8
+#EXTINF:-1 tvg-name="北京城市",北京城市
+http://iptv.tvfix.org/hls/bjcsgb.m3u8
+#EXTINF:-1 tvg-name="北京体育",北京体育
+http://iptv.tvfix.org/hls/bjtygb.m3u8
+#EXTINF:-1 tvg-name="北京交通",北京交通
+http://iptv.tvfix.org/hls/bjjtgb.m3u8
+#EXTINF:-1 tvg-name="北京音乐",北京音乐
+http://iptv.tvfix.org/hls/bjyygb.m3u8
+#EXTINF:-1 tvg-name="北京古典音乐",北京古典音乐
+http://iptv.tvfix.org/hls/bjgdyygb.m3u8
+#EXTINF:-1 tvg-name="北京外语",北京外语
+http://iptv.tvfix.org/hls/bjwaiyugb.m3u8
+#EXTINF:-1 tvg-name="北京教学",北京教学
+http://iptv.tvfix.org/hls/bjjxgb.m3u8
+#EXTINF:-1 tvg-name="北京长书",北京长书
+http://iptv.tvfix.org/hls/bjchangshugb.m3u8
+#EXTINF:-1 tvg-name="北京戏曲",北京戏曲
+http://iptv.tvfix.org/hls/bjxqgb.m3u8
+#EXTINF:-1 tvg-name="北京欢乐时光",北京欢乐时光
+http://iptv.tvfix.org/hls/bjhlsggb.m3u8
+#EXTINF:-1 tvg-name="北京怀旧金曲",北京怀旧金曲
+http://iptv.tvfix.org/hls/bjhjjqgb.m3u8
