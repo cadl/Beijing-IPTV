@@ -4,8 +4,8 @@
 #EXT-X-SUB-URL https://raw.githubusercontent.com/cadl/Beijing-IPTV/2ce62da8d1735e4d16f18d269ab2b2574df64418/ya.m3u
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7d/beea59905eb3cc8e9f4b69fb2be8a8_180_135.jpg?1701413761&472878" group-title="DOTA2", chalice
-http://live.aptvapp.com/live/huya/883235
+https://epg.112114.eu.org/huya/883235
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&472878" group-title="DOTA2", maybe
-http://live.aptvapp.com/live/huya/211888
+https://epg.112114.eu.org/huya/211888
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/6c/410d48c9eb48421dd85dea73bc3656_180_135.jpg?1600683010" group-title="DOTA2", sdn
-http://live.aptvapp.com/live/huya/310112
+https://epg.112114.eu.org/huya/310112
